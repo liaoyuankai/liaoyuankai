@@ -9,6 +9,7 @@
 
 ## 个人项目
 
+- [jbs-bang](https://github.com/liaoyuankai/jbs-bang)：剧本杀口碑榜，Next.js 16 + SQLite，三天从设计文档做到可部署
 - [simcoin](https://github.com/liaoyuankai/simcoin)：币安行情模拟交易
 - [voicechange](https://github.com/liaoyuankai/voicechange)：本地音色转换流水线
 - [vps-toolkit](https://github.com/liaoyuankai/vps-toolkit)：节点配置转换与 VPS 线路检测
